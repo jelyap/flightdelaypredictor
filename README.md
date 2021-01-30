@@ -1,3 +1,6 @@
-# Lighthouse Labs Data Science Midterm
+# Lighthouse Labs - Data Science Midterm
+## Flight Delay Prediction
 
-Final CSV submission file made by Christian Bugtain & Erika Yap for midterm project
+This repository includes the following:
+1. Jupyter notebooks containing prediction pipeline
+2. Final CSV submission file containing final prediction data
